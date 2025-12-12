@@ -44,10 +44,7 @@ session_start();
       <button type="submit" class="btn-cta enhanced-btn-cta">Start Game</button>
     </form>
 
-    <p class="small enhanced-small">
-      Place meme images in /memes/{category}/ and sounds in /sounds/ (placeholders included)
-    </p>
-  </div>
+   </div>
 <script src="transition.js"></script>
 </body>
 </html>
